@@ -1,0 +1,24 @@
+
+	body {
+	color: green;
+	background-image: url(https://images.whooshkaa.com/podcasts/podcast_3382/podcast_media/2770f4-newcover4.png);
+	background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.sticky-body {
+	margin-top: 200px
+}
+
+.sticky-header {
+	background: rgba(255, 255, 255, 0.3);
+	position: fixed;
+	top: 0;
+	height: 100px;
+	width: 100%;
+	z-index: 99;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	-webkit-filter: transparent;
+	filter: transparent;
+
+}
