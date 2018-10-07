@@ -1,17 +1,18 @@
 
 	body {
 	color: green;
-	background-image: url(https://images.whooshkaa.com/podcasts/podcast_3382/podcast_media/2770f4-newcover4.png);
+	background-color: green;
 	background-size: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
+
 }
 .sticky-body {
 	margin-top: 200px
 }
 
 .sticky-header {
-	background: rgba(255, 255, 255, 0.3);
+	background: rgba(255, 255, 255, 0.6);
 	position: fixed;
 	top: 0;
 	height: 100px;
@@ -21,4 +22,31 @@
 	-webkit-filter: transparent;
 	filter: transparent;
 
+}
+.shadow {
+	position: relative;
+	display: inline-block;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	text-shadow: 3px 3px 3px black, 8px 9px 0px rgba (0,0,0,0.1);
+	color: white;
+
+}
+div {
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: rgba(255, 255, 255, 0.6) ;
+	background-size: 100px;
+}
+
+.title {
+	font-size: 2rem;
+	background-color: rgba(255, 255, 255, 0.6);
+	background-size: 2rem;
+	text-align: center;
+
+}
+.logo {
+	height: 100px;
+	width: 100px;
 }
