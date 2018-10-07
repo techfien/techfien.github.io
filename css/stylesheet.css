@@ -23,15 +23,8 @@
 	filter: transparent;
 
 }
-.shadow {
-	position: relative;
-	display: inline-block;
-	font-size: 1.5rem;
-	text-transform: uppercase;
-	text-shadow: 3px 3px 3px black, 8px 9px 0px rgba (0,0,0,0.1);
-	color: white;
 
-}
+
 div {
 	margin-left: 50px;
 	margin-right: 50px;
@@ -53,4 +46,11 @@ div {
 .home	{
 	text-align: center;
 	color: green;
+	position: fixed;
+	z-index: 99;
+}
+
+
+.topnav-right {
+  float: right;
 }
