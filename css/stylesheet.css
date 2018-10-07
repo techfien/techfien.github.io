@@ -43,14 +43,9 @@ div {
 	height: 100px;
 	width: 100px;
 }
-.home	{
-	text-align: center;
-	color: green;
-	position: fixed;
-	z-index: 99;
+.episodes {
+	text-align: right;
 }
-
-
-.topnav-right {
-  float: right;
+.home {
+	text-align: right;
 }
