@@ -1,0 +1,28 @@
+body {
+color: green;
+background-image: image(nobg.png);
+background-size: 500px;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+}
+.sticky-body {
+	margin-top: 200px
+}
+
+.sticky-header {
+	background: rgba(255, 255, 255, 0.6);
+	position: fixed;
+	top: 0;
+	height: 100px;
+	width: 100%;
+	z-index: 99;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	
+}
+  .home	{
+  	text-align: center;
+    position: fixed;
+
+  }
