@@ -1,0 +1,19 @@
+.epsiode{
+  text-align: center;
+  background-color: rgba(211,211,211 ,0.7);
+}
+.jumbotron {
+background-image: url(nobg.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+body{
+  background-color: rgba(0,128,0 ,0.5);
+  color: white;
+}
+
+.container{
+  background-color: rgba(192,192,192 ,0.7);
+}
