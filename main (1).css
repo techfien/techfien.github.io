@@ -1,0 +1,32 @@
+.episode{
+  text-align: center;
+  background-color: rgba(245,245,245 ,0.7);
+}
+.jumbotron {
+background-image: url(nobg.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+body{
+  background-color: rgba(0,128,0 ,0.5);
+}
+
+.container{
+  background-color: rgba(192,192,192 ,0.7);
+}
+
+
+
+.nav-item{
+  color: Black;
+  margin-left:30px;
+  margin-right:30px;
+	
+  }
+
+.sponsors {
+text-align: center;
+background-color: rgba(245,245,245 ,0.7);
+}
