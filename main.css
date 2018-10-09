@@ -1,4 +1,4 @@
-.epsiode{
+.episode {
   text-align: center;
   background-color: rgba(211,211,211 ,0.7);
 }
@@ -16,4 +16,8 @@ body{
 
 .container {
   background-color: rgba(192,192,192 ,0.7);
+}
+.sponsors {
+  text-align: center;
+  background-color: rgba(211,211,211 ,0.7);
 }
