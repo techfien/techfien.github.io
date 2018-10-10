@@ -9,9 +9,10 @@ background-repeat: no-repeat;
 background-position: center;
 
 
+
 }
 body{
-  background-color: rgba(0,128,0 ,0.5);
+  background-color: rgba(232,245,233 ,1);
 }
 
 .container {
@@ -20,4 +21,15 @@ body{
 .sponsors {
   text-align: center;
   background-color: rgba(211,211,211 ,0.7);
+}
+#intro {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: blackstreet;
+  font-size: 50px;
+  animation: text;
+}
+@font-face {
+    font-family: blackstreet;
+    src: url(fonts/Black-Street.ttf);
 }
