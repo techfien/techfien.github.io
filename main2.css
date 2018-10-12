@@ -1,0 +1,42 @@
+body{
+background-image: url(nobg2.jpg);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+
+}
+
+
+  div{
+ position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+
+.btn{
+	 position: fixed;
+  top: 80%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+h6{
+	 color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: blackstreet;
+  font-size: 40px;
+ 
+
+}
+
+ 
+
+@font-face {
+    font-family: blackstreet;
+    src: url(fonts/Black-Street.ttf);
+}
