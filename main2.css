@@ -1,10 +1,14 @@
 body{
 background-image: url(nobg2.jpg);
 
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
     background-position: center; 
-
+    height: 100%;
+    width: 125%;
+    top: 0;
+    left: 0;
+background-size: 100% 100%;
 }
 
 
@@ -19,7 +23,7 @@ background-image: url(nobg2.jpg);
 
 .btn{
 	 position: fixed;
-  top: 80%;
+  top: 95%;
   left: 50%;
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
